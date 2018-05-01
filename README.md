@@ -1,2 +1,1 @@
-# Cifar10ModelTest
-# Pooling
+# This repository contains the code for my research project
